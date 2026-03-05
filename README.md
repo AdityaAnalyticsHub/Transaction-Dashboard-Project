@@ -1,49 +1,93 @@
-# Fintech Transaction & User Onboarding Analytics Dashboard
+# 📊 Fintech Transaction & User Onboarding Analytics Dashboard
 
-This project contains an interactive Power BI dashboard designed to analyze financial transaction performance and user onboarding trends.  
-The dashboard provides insights into transaction success rates, payment methods, user activation, and KYC verification performance.
+This project contains an **interactive Power BI dashboard** designed to analyze **financial transaction performance and user onboarding trends** in a fintech environment.
 
-## Dashboard Overview
+The dashboard provides insights into **transaction success rates, payment methods, user activation, and KYC verification performance**, helping businesses understand operational efficiency and user conversion behavior.
 
-The report combines two analytical dashboards:
+---
 
-### 1. Financial Transaction Performance Dashboard
-Analyzes financial transaction data to monitor payment performance and operational trends.
+## 📌 Dashboard Overview
 
-Key metrics include:
-- Transaction volume
-- Transaction success rate
-- Payment mode distribution
-- Transaction failure patterns
+The report includes **two analytical dashboards**.
 
-### 2. User Onboarding & KYC Analytics Dashboard
-Analyzes user onboarding funnel and KYC verification trends.
+### 1️⃣ Financial Transaction Performance Dashboard
 
-Key metrics include:
-- App downloads
-- User activation status
-- KYC verification progress
-- User conversion funnel
+This dashboard analyzes financial transaction data to monitor **payment performance and operational trends**.
 
-## Tools Used
-- Power BI
-- Excel
-- Data Visualization
-- Data Analysis
+**Key Metrics**
+- Transaction Volume
+- Transaction Success Rate
+- Payment Mode Distribution
+- Transaction Failure Patterns
 
-## Key Insights
-- Identifies patterns in transaction failures and success rates
-- Tracks performance of different payment methods
-- Monitors user onboarding funnel and activation trends
-- Visualizes operational KPIs for better decision-making
+**Purpose**
+- Identify patterns in transaction failures  
+- Monitor payment success rates  
+- Analyze usage of different payment methods  
 
-## Dashboard Preview
-Dashboard_preview and Dashboard 2_Preview
+---
 
-## Project File
-The Power BI report file (.pbix) is included in this repository.
+### 2️⃣ User Onboarding & KYC Analytics Dashboard
 
-## Note
-The dataset used for this project is not included due to data confidentiality.  
-Refreshing the report may show an error because the original data source is not available.  
-The project is provided for demonstration of dashboard design, analytics, and visualization techniques.
+This dashboard analyzes the **user onboarding funnel and KYC verification progress**.
+
+**Key Metrics**
+- App Downloads
+- User Activation Status
+- Wallet Activation Attempts
+- Full KYC Completion
+- User Conversion Funnel
+
+**Purpose**
+- Track user onboarding performance  
+- Monitor KYC verification progress  
+- Identify conversion drop-offs in the onboarding funnel  
+
+---
+
+## 🛠 Tools Used
+
+- Power BI  
+- Microsoft Excel  
+- Data Analysis  
+- Data Visualization  
+
+---
+
+## 📈 Key Insights
+
+- Identifies patterns in **transaction failures and success rates**
+- Tracks performance of **different payment methods**
+- Monitors the **user onboarding conversion funnel**
+- Visualizes operational **KPIs for better decision-making**
+
+---
+
+## 🖥 Dashboard Preview
+
+**Dashboard 1 – Financial Transaction Performance**
+
+![Dashboard 1](Dashboard_1_Preview.png)
+
+**Dashboard 2 – User Onboarding & KYC Analytics**
+
+![Dashboard 2](Dashboard_2_Preview.png)
+
+---
+
+## 📂 Project Files
+
+This repository contains:
+
+- Excel dataset used for analysis  
+- Power BI report file (`.pbix`)  
+
+---
+
+## ⚠ Note
+
+The dataset used in this project is **sample fintech data created for demonstration purposes**.
+
+Refreshing the Power BI report may show an error because the **original data source is not available**.
+
+This project is intended to demonstrate **dashboard design, data analysis, and visualization techniques using Power BI**.
