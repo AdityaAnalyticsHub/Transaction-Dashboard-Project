@@ -1,4 +1,4 @@
-# 📊 Fintech Transaction & User Onboarding Analytics Dashboard
+# Fintech Transaction & User Onboarding Analytics Dashboard
 
 This project contains an **interactive Power BI dashboard** designed to analyze **financial transaction performance and user onboarding trends** in a fintech environment.
 
@@ -48,7 +48,7 @@ This dashboard analyzes the **user onboarding funnel and KYC verification progre
 ## 🛠 Tools Used
 
 - Power BI  
-- Microsoft Excel  
+- Excel  
 - Data Analysis  
 - Data Visualization  
 
@@ -79,7 +79,7 @@ This dashboard analyzes the **user onboarding funnel and KYC verification progre
 
 This repository contains:
 
-- Excel dataset used for analysis  
+- Excel dataset for Data
 - Power BI report file (`.pbix`)  
 
 ---
