@@ -67,12 +67,11 @@ This dashboard analyzes the **user onboarding funnel and KYC verification progre
 
 **Dashboard 1 – Financial Transaction Performance**
 
-![Dashboard 1](Dashboard_1_Preview.png.png)
+![Dashboard 1](dashboard1.png)
 
 **Dashboard 2 – User Onboarding & KYC Analytics**
 
-![Dashboard 2](Dashboard_2_Preview.png.png)
-
+![Dashboard 2](dashboard2.png)
 ---
 
 ## 📂 Project Files
